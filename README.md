@@ -6,7 +6,7 @@ Jekyll works with sass so I had to remove css and _sass folder, now all styles a
 ## Hot to use it
 
 I used and tested this template with 
-* ruby  1.9.3
+* Ruby  1.9.3
 * Ruby DevKit for 1.9
 
 Install jekyll by running `gem install jekyll` in terminal.
