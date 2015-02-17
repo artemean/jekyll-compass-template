@@ -11,6 +11,8 @@ I used and tested this template with
 
 Install jekyll by running `gem install jekyll` in terminal. 
 
+Install jekyll-compass: `gem install jekyll-compass`
+
 Clone this repository to some folder and run `jekyll serve` in it. 
 
 Navigate to http://127.0.0.1:4000/ in your browser. 
