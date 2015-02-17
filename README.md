@@ -10,5 +10,11 @@ I used and tested this template with
 * Ruby DevKit for 1.9
 
 Install jekyll by running `gem install jekyll` in terminal. 
-Clone this repository to some folder and run `jekyll serve` in it. Navigate to http://127.0.0.1:4000/ in your browser. Make changes to scss files in _compass folder and/or html files. Jekyll will compile everything to _site folder.
+
+Clone this repository to some folder and run `jekyll serve` in it. 
+
+Navigate to http://127.0.0.1:4000/ in your browser. 
+
+Make changes to scss files in _compass folder and/or html files. Jekyll will compile everything to _site folder.
+
 In order to use sprites place your images to images/icons folder in project root. Sprite image and relevant classes will generated as usual when using compass.
