@@ -1,6 +1,6 @@
 # Ready to use jekyll-compass template
 
-This template was made by running `jekyll new .` and then `compass create -r jekyll-compass` in an empty folder. 
+This template was made by running `jekyll new .` and then `compass create -r jekyll-compass` ([plugin](https://github.com/mscharley/jekyll-compass)) in an empty folder. 
 Jekyll works with sass so I had to remove *css* and *_sass* folders, now all styles are served from *_compass*. The output folder is *_site*.
 
 ## Hot to use it
