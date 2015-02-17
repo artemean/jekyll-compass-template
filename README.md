@@ -1,9 +1,9 @@
-# H1 Ready to use jekyll-compass template
+# Ready to use jekyll-compass template
 
 This template was made by running `jekyll new .` and then `compass create -r jekyll-compass` in an empty folder. 
 Jekyll works with sass so I had to remove css and _sass folder, now all styles are served from _compass. The output folder is _site.
 
-# H2 Hot to use it
+## Hot to use it
 
 I used and tested this template with 
 * ruby  1.9.3
