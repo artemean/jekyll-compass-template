@@ -8,10 +8,12 @@ Jekyll works with sass so I had to remove css and _sass folders, now all styles 
 I used and tested this template with 
 * Ruby  1.9.3
 * Ruby DevKit for 1.9
+* jekyll 2.1.1
 
 Install compass by running `gem install compass` in terminal.
 
-Install jekyll: `gem install jekyll`. 
+Install jekyll: `gem install jekyll -v "=2.1.1"`. 
+_The latest (2.5.3) version of jekyll was unstable on windows 7 so I had to install an earlier one._
 
 Install jekyll-compass: `gem install jekyll-compass`.
 
