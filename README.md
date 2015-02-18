@@ -9,6 +9,7 @@ I used and tested this template with
 * Ruby  1.9.3
 * Ruby DevKit for 1.9
 * jekyll 2.1.1
+* Compass 1.0.3
 
 Install compass by running `gem install compass` in terminal.
 
